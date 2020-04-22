@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente-secundaria/master/assets/attires/config_1587572524443.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente-secundaria/master/assets/attires/config_1587580581991.json"></gs-attire>
 
 ¡Qué pinta tiene nuestro flan! :star_struck: ¿Pensas que no puede estar mejor? ¿Y si te digo dulce de leche o crema? :smirk: ¡Sí, esos van a ser nuestros acompañamientos! 
 
