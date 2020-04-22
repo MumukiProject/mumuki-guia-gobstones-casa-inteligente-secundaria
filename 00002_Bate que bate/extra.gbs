@@ -14,7 +14,7 @@ function azucar() {
 	return (Rojo)
 }
 
-Batir(ingrediente1, ingrediente2) {
+procedure Batir(ingrediente1, ingrediente2) {
 	repeat (nroBolitas(ingrediente1) + nroBolitas(ingrediente2)) {
 		Poner(ingrediente1)
 		Poner(ingrediente2)
