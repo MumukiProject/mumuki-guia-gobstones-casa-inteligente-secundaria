@@ -1,0 +1,22 @@
+function lecheConAzucar() {
+	return (Azul)
+}
+
+function huevos() {
+	return (Negro)
+}
+
+function agua() {
+	return (Verde)
+}
+
+function azucar() {
+	return (Rojo)
+}
+
+Batir(ingrediente1, ingrediente2) {
+	repeat (nroBolitas(ingrediente1) + nroBolitas(ingrediente2)) {
+		Poner(ingrediente1)
+		Poner(ingrediente2)
+	}
+}
