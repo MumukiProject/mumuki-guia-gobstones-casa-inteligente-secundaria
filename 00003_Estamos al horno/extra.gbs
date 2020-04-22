@@ -1,0 +1,13 @@
+procedure PrenderFuego() {
+	repeat(5) {
+		Poner(Rojo)
+	}
+}
+
+function mezcla() {
+	return (Negro)
+}
+
+function flaneraEstaLlena() {
+	return (nroBolitas(Negro) == nroBolitas(Verde))
+}
