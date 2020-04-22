@@ -1,0 +1,5 @@
+Te presentamos a **ChefTrón**, un robot cocinero :bowl_with_spoon::robot: que se hará cargo de las comidas de la futura _casa inteligente_. ¿Por qué te lo presentamos? :flushed: Bueno, hace falta cargarle la receta del flan :custard: y pensamos que vos serías la mejor opción para programarlo. :warning: ¡Cuidado! Es una receta sólo para robots, así que no la intentes en casa :warning:. ¡A la heladera! 
+
+:books: Para hacer estos ejercicios necesitás tener los conocimientos de:
+
+* Funciones &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/mega_sanluis_1574865841808.png" alt="mega_sanluis_1574865841808.png" width="60px" height="auto">](https://mumuki.io/secundaria.sanluis/lessons/41-fundamentos-funciones) &nbsp; [<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis-secundaria/master/assets/meta_sanluis_1574865884490.png" alt="meta_sanluis_1574865884490.png" width="60px" height="auto">](https://mumuki.io/sanluis/lessons/41-fundamentos-funciones)
