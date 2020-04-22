@@ -1,0 +1,15 @@
+procedure CortarPorcion() {
+	Sacar(Negro)
+}
+
+procedure ServirPorcion() {
+	Poner(Negro)
+}
+
+function dulceDeLeche() {
+	return (Verde)
+}
+
+function crema() {
+	return (Azul)
+}
