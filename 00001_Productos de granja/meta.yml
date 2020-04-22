@@ -1,8 +1,8 @@
 ---
 locale: es
 tags: []
-layout: input_kids
-editor: custom
+layout: input_right
+editor: code
 type: problem
 extra_visible: false
 teacher_info: ''
