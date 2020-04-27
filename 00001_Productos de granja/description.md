@@ -1,6 +1,6 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente-secundaria/master/assets/attires/config_1587580581991.json"></gs-attire>
 
-El flan :custard: es un postre clásico que se prepara con leche :milk:, huevos :egg: y azúcar. Enseñémosle a ChefTrón a buscar y agarrar los dos primeros ingredientes de la heladera. ¡Vamos!
+El flan :custard: es un postre clásico que se prepara con leche :milk:, huevos :egg: y azúcar. Enseñémosle a ChefTrón a buscar y agarrar los dos primeros ingredientes de la heladera.
 
 <gs-board>
 	   GBB/1.0
